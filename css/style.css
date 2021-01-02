@@ -1,0 +1,33 @@
+.conteudo-principal{
+  background: rgb(216, 243, 230);
+}
+.titulo-principal{
+  color: darkcyan;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 5px;
+  text-transform: uppercase;
+}
+.pastas div{
+  display: inline-block;
+  margin: 15px 15px;
+  padding: 30px;
+}
+.modulo img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.modulo h3 {
+  color: rgba(35, 160, 118, 0.774);
+  margin-left: 0px;
+  margin-top: 0px;
+  padding: 10px;
+}
+
+.modulo a{
+  text-decoration: none;
+  
+}
