@@ -1,19 +1,21 @@
-@media only screen and (max-width:560px){
-  .conteudo-principal{
+@media only screen and (max-width: 560px) {
+  .conteudo-principal {
     max-width: 100%;
   }
-  .pastas{
+  .pastas {
     max-width: 300px;
   }
-  
-  .pastas div{
-    margin-left:120px;
+
+  .pastas div {
+    margin-left: 110px;
   }
-  .titulo-principal{
+  .titulo-principal {
     font-size: 22px;
   }
 
-  .pastas div,.modulo,.modulo h3{
+  .pastas div,
+  .modulo,
+  .modulo h3 {
     margin-bottom: 0px;
     margin-top: 0px;
   }
